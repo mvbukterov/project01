@@ -1,6 +1,6 @@
-message ="Привет, студенты!"
+message ="Привет всем!"
 print(message)
 
-result = 2 + 2
+result = 3 - 2
 print(result)
 
